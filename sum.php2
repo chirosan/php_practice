@@ -1,0 +1,21 @@
+<?php
+$members = array ("一郎","二郎","三郎",);
+array_push ($members,"四郎","五郎");
+print_r ($members);
+
+
+//配列を作成
+$array1 = [1,2,3];
+$array2 = [10,20,30];
+
+//配列を結合する
+$array = array_merge ($array1,$array2);
+print_r ($array);
+
+mktime (00,04,12,9,28,2022)
+
+?>
+
+
+
+
